@@ -1,10 +1,10 @@
 {
-  "name": "twilight-updated-syntax",
+  "name": "twilight-updated-ninthart-syntax",
   "theme": "syntax",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "private": false,
-  "description": "Forked and maintained version of the ssteinker Twilight theme from Michael Sheets",
-  "repository": "https://github.com/pudymody/atom-twilight.git",
+  "description": "Forked and maintained version of the pudymody and ssteinker Twilight theme from Michael Sheets",
+  "repository": "https://github.com/ninthart/atom-twilight.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
