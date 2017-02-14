@@ -1,7 +1,7 @@
 {
   "name": "twilight-updated-syntax",
   "theme": "syntax",
-  "version": "0.5.4",
+  "version": "0.5.5",
   "private": false,
   "description": "Forked and maintained version of the ssteinker Twilight theme from Michael Sheets",
   "repository": "https://github.com/pudymody/atom-twilight.git",
